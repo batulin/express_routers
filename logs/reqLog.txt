@@ -50,3 +50,4 @@
 20231221	20:47:01	0d54e5ce-d7ff-427f-a471-a37e4787649b	POST	undefined	/register
 20231221	20:48:48	37f280e1-58d2-4123-9f21-5716ae5b4692	POST	undefined	/register
 20231221	20:48:57	bf724250-6f2c-4736-9613-ce8af81d0a94	POST	undefined	/register
+20231221	20:59:59	7aa512a9-9628-4b9f-bcac-79bb4e09f6b6	POST	undefined	/login
