@@ -40,3 +40,13 @@
 20231221	19:44:33	0689f572-665e-4ccb-94a6-5c2e4430a6d8	DELETE	undefined	/employees
 20231221	19:44:54	6ded2613-81df-4f51-81d2-d4f77cc941cb	POST	undefined	/employees
 20231221	19:45:13	7a2a029f-e14c-4c68-b2c1-e78c678e1ed8	DELETE	undefined	/employees
+20231221	20:41:31	7362098d-a325-49e0-92c4-1d7b1b7a1307	GET	undefined	/
+20231221	20:41:31	b44717ce-2c09-4b90-9cdf-26bdcce24f14	GET	undefined	/css/style.css
+20231221	20:41:33	a440e47e-8800-4e77-bbb2-70425dfc1734	GET	undefined	/
+20231221	20:41:33	100967f3-fa8c-404b-b2bb-f1e5160fa552	GET	undefined	/css/style.css
+20231221	20:45:11	75481c3a-1394-42d4-9212-9a7e7086efa5	DELETE	undefined	/register
+20231221	20:45:38	425c0c07-7aed-4245-a141-b59b1275a9f4	POST	undefined	/register
+20231221	20:46:04	f8d97e1e-33ac-4c10-a4bc-3b34168b67dd	POST	undefined	/register
+20231221	20:47:01	0d54e5ce-d7ff-427f-a471-a37e4787649b	POST	undefined	/register
+20231221	20:48:48	37f280e1-58d2-4123-9f21-5716ae5b4692	POST	undefined	/register
+20231221	20:48:57	bf724250-6f2c-4736-9613-ce8af81d0a94	POST	undefined	/register
